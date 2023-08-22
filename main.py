@@ -1,6 +1,7 @@
 import json
 import os
 
+
 from confluent_kafka import Consumer
 from confluent_kafka import KafkaError
 from confluent_kafka import KafkaException
